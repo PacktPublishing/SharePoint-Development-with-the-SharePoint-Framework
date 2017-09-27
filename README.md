@@ -1,5 +1,5 @@
 # SharePoint Development with the SharePoint Framework
-This is the code repository for [SharePoint Development with the SharePoint Framework](https://www.packtpub.com/application-development/python-gui-programming-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781787129450), published by [Packt](https://www.packtpub.com/). It contains all the supporting project files necessary to work through the book from start to finish.
+This is the code repository for [SharePoint Development with the SharePoint Framework](https://www.packtpub.com/web-development/sharepoint-development-sharepoint-framework?utm_source=github&utm_medium=repository&utm_campaign=9781787121430), published by [Packt](https://www.packtpub.com/). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 This book will guide you from the very basics of creating a fully functional GUI in Python with only a few lines of code. Each and every recipe adds more widgets to the GUIs we are creating. While the cookbook recipes all stand on their own, there is a common theme running through all of them. As our GUIs keep expanding, using more and more widgets, we start to talk to networks, databases, and graphical libraries that greatly enhance our GUI’s functionality. This book is what you need to expand your knowledge on the subject of GUIs, and make sure you’re not missing out in the long run.
 ### Instructions and Navigations
@@ -20,13 +20,13 @@ win.title("Python GUI")
 ## Related Products
  
   
-* [Python GUI Programming Solutions [Video]](https://www.packtpub.com/application-development/python-gui-programming-solutions-video?utm_source=github&utm_medium=repository&utm_campaign=9781786465528)
+* [SharePoint 2013 Development Using C# - Part 1: The Essentials of Application Development [Video]](https://www.packtpub.com/big-data-and-business-intelligence/sharepoint-2013-development-using-c-part-1-essentials-application?utm_source=github&utm_medium=repository&utm_campaign=9781787126350)
   
   
-* [Python Parallel Programming Cookbook](https://www.packtpub.com/application-development/python-parallel-programming-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781785289583)
+* [Microsoft SharePoint 2010 Development with Visual Studio 2010 Expert Cookbook](https://www.packtpub.com/application-development/microsoft-sharepoint-2010-development-visual-studio-2010-expert-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781849684583)
   
   
-* [Python Network Programming Cookbook](https://www.packtpub.com/networking-and-servers/python-network-programming-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781849513463)
+* [SharePoint 2013 Development Using C# - Part 1: The Essentials of Application Development [Video]](https://www.packtpub.com/big-data-and-business-intelligence/sharepoint-2013-development-using-c-part-1-essentials-application?utm_source=github&utm_medium=repository&utm_campaign=9781787126350)
   
  
 
