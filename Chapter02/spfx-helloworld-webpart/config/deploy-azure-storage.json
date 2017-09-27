@@ -1,0 +1,6 @@
+{
+  "workingDir": "./temp/deploy/",
+  "account": "spfxcdnstorage",
+  "container": "cdn",
+  "accessKey": "ubwLikM1FKFGzxKg2wZ3kjf2ZotlxHmW1ecRjksIszK7voaOfgoJ+yS7G4c24D9XK0B6hcx3X8QpUyqbuPQRzQ=="
+}
