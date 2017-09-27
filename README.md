@@ -5,17 +5,15 @@ SharePoint is one of Microsoft's best known web platforms. A loyal audience of d
 The SharePoint Framework (SPFx) is a new option for developing SharePoint solutions. SPFx is still nascent, and many developers are creating full-trust based solutions or add-in solutions, while also having to figure out where and how SPFx fits in the big picture.
 ### Instructions and Navigations
 All of the codes are organized as per the chapters, each folder has the codes related to that chapter or appendix.                   
-For example: Python-GUI-Programming-Cookbook-Second-Edition/Chapter01/Ch01_Code/First_GUI.py
+For example: SharePoint-Development-with-the-SharePoint-Framework/Chapter10/spfx-hello-knockout/src/webparts/helloKnockout/HelloKnockout.template.html
 
 The code will look like the following:
 ```
-import tkinter as tk
-
-# Create instance
-win = tk.Tk()   
-
-# Add a title       
-win.title("Python GUI")
+<span class="ms-font-xl ms-fontColor-white">Welcome to SharePoint!</span>
+          <p class="ms-font-l ms-fontColor-white">Customize SharePoint experiences using Web Parts.</p>
+          <p class="ms-font-l ms-fontColor-white" data-bind="text:description"></p>
+          <a href="https://aka.ms/spfx" data-bind="attr: {class:buttonClass}">
+<span data-bind="attr: {class:labelClass}">Learn more</span>
 ```
 
 ## Related Products
