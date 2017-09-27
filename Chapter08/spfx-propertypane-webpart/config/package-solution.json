@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "propertypane-webpart-client-side-solution",
+    "id": "717443a6-ab62-4698-83fc-142d92ebb131",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/propertypane-webpart.sppkg"
+  }
+}

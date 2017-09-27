@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "react-todo-webpart-client-side-solution",
+    "id": "3139c9b7-5307-41d1-a454-453175b76b38",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/react-todo-webpart.sppkg"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "hello-custompropertypanefield-client-side-solution",
+    "id": "af33ab9d-9499-4788-95f6-91770dacb278",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/hello-custompropertypanefield.sppkg"
+  }
+}

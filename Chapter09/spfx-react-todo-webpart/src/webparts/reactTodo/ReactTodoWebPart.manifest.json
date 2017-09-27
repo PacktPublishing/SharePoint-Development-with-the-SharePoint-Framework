@@ -1,0 +1,26 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "1402482a-e54c-4b19-877f-1a2b46a2e670",
+  "alias": "ReactTodoWebPart",
+  "componentType": "WebPart",
+  "version": "*", // The "*" signifies that the version should be taken from the package.json
+  "manifestVersion": 2,
+
+  /**
+   * This property should only be set to true if it is certain that the webpart does not
+   *  allow arbitrary scripts to be called
+   */
+  "safeWithCustomScriptDisabled": false,
+
+  "preconfiguredEntries": [{
+    "groupId": "1402482a-e54c-4b19-877f-1a2b46a2e670",
+    "group": { "default": "Under Development" },
+    "title": { "default": "ReactTodo" },
+    "description": { "default": "ReactTodo description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "ReactTodo"
+    }
+  }]
+}

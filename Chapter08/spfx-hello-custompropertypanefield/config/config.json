@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/helloCustomPropertyPaneField/HelloCustomPropertyPaneFieldWebPart.js",
+      "manifest": "./src/webparts/helloCustomPropertyPaneField/HelloCustomPropertyPaneFieldWebPart.manifest.json",
+      "outputPath": "./dist/hello-custom-property-pane-field.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "helloCustomPropertyPaneFieldStrings": "webparts/helloCustomPropertyPaneField/loc/{locale}.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/propertypane/PropertypaneWebPart.js",
+      "manifest": "./src/webparts/propertypane/PropertypaneWebPart.manifest.json",
+      "outputPath": "./dist/propertypane.bundle.js"
+    }
+  ],
+  "externals": {
+    "jQuery": "https://code.jquery.com/jquery-3.2.1.min.js"
+  },
+  "localizedResources": {
+    "propertypaneStrings": "webparts/propertypane/loc/{locale}.js"
+  }
+}

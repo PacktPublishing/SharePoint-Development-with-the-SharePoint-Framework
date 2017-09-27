@@ -1,0 +1,26 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "4acaac0d-15a5-42ae-855c-d41f1027d511",
+  "alias": "HelloCustomPropertyPaneFieldWebPart",
+  "componentType": "WebPart",
+  "version": "*", // The "*" signifies that the version should be taken from the package.json
+  "manifestVersion": 2,
+
+  /**
+   * This property should only be set to true if it is certain that the webpart does not
+   *  allow arbitrary scripts to be called
+   */
+  "safeWithCustomScriptDisabled": false,
+
+  "preconfiguredEntries": [{
+    "groupId": "4acaac0d-15a5-42ae-855c-d41f1027d511",
+    "group": { "default": "Under Development" },
+    "title": { "default": "HelloCustomPropertyPaneField" },
+    "description": { "default": "HelloCustomPropertyPaneField description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "HelloCustomPropertyPaneField"
+    }
+  }]
+}

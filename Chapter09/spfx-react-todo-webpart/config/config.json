@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/reactTodo/ReactTodoWebPart.js",
+      "manifest": "./src/webparts/reactTodo/ReactTodoWebPart.manifest.json",
+      "outputPath": "./dist/react-todo.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "reactTodoStrings": "webparts/reactTodo/loc/{locale}.js"
+  }
+}
