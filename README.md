@@ -1,7 +1,8 @@
 # SharePoint Development with the SharePoint Framework
 This is the code repository for [SharePoint Development with the SharePoint Framework](https://www.packtpub.com/web-development/sharepoint-development-sharepoint-framework?utm_source=github&utm_medium=repository&utm_campaign=9781787121430), published by [Packt](https://www.packtpub.com/). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
-This book will guide you from the very basics of creating a fully functional GUI in Python with only a few lines of code. Each and every recipe adds more widgets to the GUIs we are creating. While the cookbook recipes all stand on their own, there is a common theme running through all of them. As our GUIs keep expanding, using more and more widgets, we start to talk to networks, databases, and graphical libraries that greatly enhance our GUI’s functionality. This book is what you need to expand your knowledge on the subject of GUIs, and make sure you’re not missing out in the long run.
+SharePoint is one of Microsoft's best known web platforms. A loyal audience of developers, IT Pros and power users use it to build line of business solutions.
+The SharePoint Framework (SPFx) is a new option for developing SharePoint solutions. SPFx is still nascent, and many developers are creating full-trust based solutions or add-in solutions, while also having to figure out where and how SPFx fits in the big picture.
 ### Instructions and Navigations
 All of the codes are organized as per the chapters, each folder has the codes related to that chapter or appendix.                   
 For example: Python-GUI-Programming-Cookbook-Second-Edition/Chapter01/Ch01_Code/First_GUI.py
