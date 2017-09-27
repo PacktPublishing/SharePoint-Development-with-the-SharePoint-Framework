@@ -26,7 +26,7 @@ win.title("Python GUI")
 * [Microsoft SharePoint 2010 Development with Visual Studio 2010 Expert Cookbook](https://www.packtpub.com/application-development/microsoft-sharepoint-2010-development-visual-studio-2010-expert-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781849684583)
   
   
-* [SharePoint 2013 Development Using C# - Part 1: The Essentials of Application Development [Video]](https://www.packtpub.com/big-data-and-business-intelligence/sharepoint-2013-development-using-c-part-1-essentials-application?utm_source=github&utm_medium=repository&utm_campaign=9781787126350)
+* [SharePoint 2013 WCM Advanced Cookbook](https://www.packtpub.com/application-development/sharepoint-2013-wcm-advanced-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781849686587)
   
  
 
