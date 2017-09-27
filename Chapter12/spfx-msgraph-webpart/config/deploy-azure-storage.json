@@ -1,0 +1,6 @@
+{
+  "workingDir": "./temp/deploy/",
+  "account": "<!-- STORAGE ACCOUNT NAME -->",
+  "container": "spfx-msgraph-webpart",
+  "accessKey": "<!-- ACCESS KEY -->"
+}

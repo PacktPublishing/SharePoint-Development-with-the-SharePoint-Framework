@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "spfx-msgraph-webpart-client-side-solution",
+    "id": "ba850794-5eb2-4cba-83c3-bdce1978215a",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-msgraph-webpart.sppkg"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/sphttpclient/SphttpclientWebPart.js",
+      "manifest": "./src/webparts/sphttpclient/SphttpclientWebPart.manifest.json",
+      "outputPath": "./dist/sphttpclient.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "sphttpclientStrings": "webparts/sphttpclient/loc/{locale}.js"
+  }
+}
