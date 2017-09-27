@@ -1,0 +1,26 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "ea4f44df-7deb-4c73-a07f-47f4dc72e938",
+  "alias": "HelloKnockoutWebPart",
+  "componentType": "WebPart",
+  "version": "*", // The "*" signifies that the version should be taken from the package.json
+  "manifestVersion": 2,
+
+  /**
+   * This property should only be set to true if it is certain that the webpart does not
+   *  allow arbitrary scripts to be called
+   */
+  "safeWithCustomScriptDisabled": false,
+
+  "preconfiguredEntries": [{
+    "groupId": "ea4f44df-7deb-4c73-a07f-47f4dc72e938",
+    "group": { "default": "Under Development" },
+    "title": { "default": "HelloKnockout" },
+    "description": { "default": "HelloKnockout description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "HelloKnockout"
+    }
+  }]
+}

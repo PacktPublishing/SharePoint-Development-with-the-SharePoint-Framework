@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "hello-pnp-client-side-solution",
+    "id": "eb7fc601-9779-484d-a459-318a1dd96740",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/hello-pnp.sppkg"
+  }
+}

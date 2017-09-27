@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "hello-knockout-client-side-solution",
+    "id": "b0944c09-f3c2-41f3-b62c-1af83c7e70f7",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/hello-knockout.sppkg"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "hello-markupjs-client-side-solution",
+    "id": "90077a30-c9fc-4de8-942c-9b90e166e532",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/hello-markupjs.sppkg"
+  }
+}

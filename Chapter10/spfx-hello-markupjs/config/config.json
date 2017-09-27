@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/helloMarkupJs/HelloMarkupJsWebPart.js",
+      "manifest": "./src/webparts/helloMarkupJs/HelloMarkupJsWebPart.manifest.json",
+      "outputPath": "./dist/hello-markup-js.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "helloMarkupJsStrings": "webparts/helloMarkupJs/loc/{locale}.js"
+  }
+}

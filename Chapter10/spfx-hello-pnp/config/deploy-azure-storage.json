@@ -1,0 +1,6 @@
+{
+  "workingDir": "./temp/deploy/",
+  "account": "<!-- STORAGE ACCOUNT NAME -->",
+  "container": "hello-pnp",
+  "accessKey": "<!-- ACCESS KEY -->"
+}

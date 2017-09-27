@@ -1,0 +1,18 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/helloPnP/HelloPnPWebPart.js",
+      "manifest": "./src/webparts/helloPnP/HelloPnPWebPart.manifest.json",
+      "outputPath": "./dist/hello-pn-p.bundle.js"
+    }
+  ],
+  "externals": {
+    "myowncode": { 
+      "path": "https://opax.sharepoint.com/siteassets/myowncode.js", 
+      "globalName": "myowncode"
+    }
+  },
+  "localizedResources": {
+    "helloPnPStrings": "webparts/helloPnP/loc/{locale}.js"
+  }
+}

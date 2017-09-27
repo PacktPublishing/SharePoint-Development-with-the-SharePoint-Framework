@@ -1,0 +1,1 @@
+export function myProduct(a: number, b: number): number;
