@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/spFxCrud/SpFxCrudWebPart.js",
+      "manifest": "./src/webparts/spFxCrud/SpFxCrudWebPart.manifest.json",
+      "outputPath": "./dist/sp-fx-crud.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "spFxCrudStrings": "webparts/spFxCrud/loc/{locale}.js"
+  }
+}

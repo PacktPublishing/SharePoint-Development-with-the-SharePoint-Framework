@@ -1,0 +1,26 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "33427506-6eae-48fa-9519-8b862129c4ea",
+  "alias": "SpFxCrudWebPart",
+  "componentType": "WebPart",
+  "version": "*", // The "*" signifies that the version should be taken from the package.json
+  "manifestVersion": 2,
+
+  /**
+   * This property should only be set to true if it is certain that the webpart does not
+   *  allow arbitrary scripts to be called
+   */
+  "safeWithCustomScriptDisabled": false,
+
+  "preconfiguredEntries": [{
+    "groupId": "33427506-6eae-48fa-9519-8b862129c4ea",
+    "group": { "default": "Under Development" },
+    "title": { "default": "SPFxCRUD" },
+    "description": { "default": "SPFxCRUD description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "SPFxCRUD"
+    }
+  }]
+}

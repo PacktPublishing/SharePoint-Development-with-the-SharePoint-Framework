@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/helloListitems/HelloListitemsWebPart.js",
+      "manifest": "./src/webparts/helloListitems/HelloListitemsWebPart.manifest.json",
+      "outputPath": "./dist/hello-listitems.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "helloListitemsStrings": "webparts/helloListitems/loc/{locale}.js"
+  }
+}

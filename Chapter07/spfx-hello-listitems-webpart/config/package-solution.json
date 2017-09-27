@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "hello-listitems-client-side-solution",
+    "id": "db97cfad-0dc9-4077-a7ac-23ecd126def5",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/hello-listitems.sppkg"
+  }
+}

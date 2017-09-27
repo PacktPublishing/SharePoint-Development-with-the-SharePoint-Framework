@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "sp-fx-crud-client-side-solution",
+    "id": "a85c2302-73f9-46e2-8f02-45d12870d3ab",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/sp-fx-crud.sppkg"
+  }
+}

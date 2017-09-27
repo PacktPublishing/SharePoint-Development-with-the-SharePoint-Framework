@@ -1,0 +1,26 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "bd2131cc-b815-4390-969d-c795002abee7",
+  "alias": "HelloListitemsWebPart",
+  "componentType": "WebPart",
+  "version": "*", // The "*" signifies that the version should be taken from the package.json
+  "manifestVersion": 2,
+
+  /**
+   * This property should only be set to true if it is certain that the webpart does not
+   *  allow arbitrary scripts to be called
+   */
+  "safeWithCustomScriptDisabled": false,
+
+  "preconfiguredEntries": [{
+    "groupId": "bd2131cc-b815-4390-969d-c795002abee7",
+    "group": { "default": "Under Development" },
+    "title": { "default": "hello-listitems" },
+    "description": { "default": "hello-listitems description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "hello-listitems"
+    }
+  }]
+}

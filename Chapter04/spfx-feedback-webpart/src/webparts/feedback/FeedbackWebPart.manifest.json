@@ -1,0 +1,29 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "0d59b068-2924-4a95-a63c-332026d92b16",
+  "alias": "FeedbackWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "0d59b068-2924-4a95-a63c-332026d92b16",
+    "group": { 
+      "default": "SharePoint Framework web parts",
+      "fi-fi": "SharePoint Framework verkko-osat" 
+    },
+    "title": { 
+      "default": "Feedback",
+      "fi-fi": "Palaute" 
+    },
+    "description": { 
+      "default": "Collect feedback from SharePoint pages.",
+      "f-fi": "Kerää palautetta SharePoint-sivuilta."
+    },
+    "officeFabricIconFontName": "NoteForward",
+    "properties": {
+      "hintText": "Type in feedback concerning the page"
+    }
+  }]
+}
